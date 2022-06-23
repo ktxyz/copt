@@ -1,2 +1,2 @@
 # copt
-c opt library or rather abstraction layer for ease-of-use
+c arg parsing library or rather abstraction layer for ease-of-use
